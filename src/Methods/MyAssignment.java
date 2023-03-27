@@ -1,3 +1,9 @@
+/**
+ * @class MyAssignment
+ * @author Sonal Sekhda
+ * @course ITEC 2140 section 04
+ * @date March 27, 2023
+ */
 package Methods;
 
 public class MyAssignment {
